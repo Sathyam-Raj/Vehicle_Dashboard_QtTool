@@ -21,6 +21,9 @@ Features:
 Technologies Used:
 
 Qt Quick
+
 QML
+
 C++
+
 QtMultimedia 6.0

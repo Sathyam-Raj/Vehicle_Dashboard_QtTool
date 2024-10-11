@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/background2.jpg</file>
+        <file>images/file (1) (1).png</file>
+        <file>images/Remove background project.png</file>
+        <file>images/file (4).png</file>
+    </qresource>
+</RCC>

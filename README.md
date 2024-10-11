@@ -24,6 +24,4 @@ Qt Quick
 
 QML
 
-C++
-
 QtMultimedia 6.0

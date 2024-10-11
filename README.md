@@ -3,6 +3,7 @@
 This repository contains the final project completed during my internship at DRDO CVRDE. The project focuses on developing a comprehensive vehicle dashboard using Qt Quick, designed to monitor and display various vehicle parameters through an interactive interface.
 
 
+
 Features:
 
 1.Speedometer: Real-time speed tracking.
@@ -16,6 +17,7 @@ Features:
 5.Rotation Pane: Allows image rotation visualization based on input values.
 
 6.Camera Output: Real-time video feed integration for enhanced monitoring.
+
 
 
 Technologies Used:
